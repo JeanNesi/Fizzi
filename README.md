@@ -1,3 +1,5 @@
+# Credits
+**Prismic**: [Build a 3D Ecommerce Landing Page with Next.js 14, GSAP, Three.js and Prismic - Full Course 2024](https://www.youtube.com/watch?v=RKQqrNyAC6k&t=10736s)
 # Prismic + Next.js Minimal Starter
 
 Want to quickly get started building your own project with [Prismic][prismic] and [Next.js][nextjs]? This project includes basic configurations and nothing else. The project includes one Rich Text Slice, a homepage, and a dynamic page.
