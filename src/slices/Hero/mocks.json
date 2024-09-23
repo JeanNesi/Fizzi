@@ -1,0 +1,99 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Honor"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Mollit enim laborum velit anim. Ipsum exercitation exercitation veniam eiusmod officia occaecat mollit officia reprehenderit ut magna. Nisi laboris eu sint laboris consectetur do ad cupidatat elit ex proident aliquip dolor in mollit."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Nostrud incididunt velit aliqua culpa dolore cupidatat incididunt veniam aliqua officia deserunt ea. In qui officia laborum adipisicing labore ullamco. Occaecat nostrud non culpa quis irure occaecat exercitation minim qui commodo eiusmod culpa veniam."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "mass",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io"
+				}
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f",
+					"width": 6597,
+					"height": 4398
+				},
+				"url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f",
+				"width": 6597,
+				"height": 4398,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Theory"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Laboris nisi officia Lorem consectetur culpa eiusmod mollit aute tempor adipisicing eu. Deserunt non non ea deserunt cupidatat est officia dolor ex exercitation elit occaecat adipisicing laborum non."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
